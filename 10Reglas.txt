@@ -1,0 +1,30 @@
+1- Importar fuente desde Google Fonts:
+
+Esta regla importa la fuente Roboto Condensed desde Google Fonts para ser utilizada en el documento.
+Establecer la fuente para el cuerpo del documento:
+
+2- Configura el cuerpo del documento para utilizar la fuente 'Bebas Neue' como preferencia. Si esta fuente no está disponible, se usará una fuente cursive genérica.
+Estilos para el encabezado (header):
+
+3- Define el tamaño (altura), imagen de fondo, posición, alineación de contenido y visualización como una caja flexible (flexbox) para el elemento con el id 'header'.
+Estilos para los títulos (h1) dentro del encabezado (header):
+
+4- Define el color, relleno, márgenes, tamaño de fuente y color de fondo para los títulos 'h1' dentro del elemento con el id 'header'.
+Estilos generales para la sección principal (main):
+
+5- Define el relleno a los lados (horizontal) para el elemento con el id 'main'.
+Estilos para los títulos (h1) dentro de la sección principal (main):
+
+6- Define el tamaño de fuente, color de fondo, color del texto, alineación centrada, borde redondeado y márgenes para los títulos 'h1' dentro del elemento con el id 'main'.
+Estilos para elementos 'iframe':
+
+7- Define que todos los elementos 'iframe' ocupen el 100% de su contenedor en ancho y tengan una altura fija de 250px.
+Estilos para tablas (table):
+
+8- Define el ancho, colapso de borde, márgenes, bordes, relleno, alineación del texto y color de fondo para las tablas.
+Estilos para imágenes (img):
+
+9- Define que todas las imágenes tengan un ancho del 30% de su contenedor.
+Estilos para títulos de nivel 2 (h2):
+
+10- Define el subrayado, color y alineación del texto para los títulos de nivel 2 ('h2').
